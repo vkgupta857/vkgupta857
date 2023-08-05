@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Projects
-- (Click to chat)[https://vkgupta857.github.io/click-to-chat/] - Click to chat is a tool that let's you chat with people on WhatsApp, Telegram without saving their numbers.
+- [Click to chat](https://vkgupta857.github.io/click-to-chat/) - Click to chat is a tool that let's you chat with people on WhatsApp, Telegram without saving their numbers.
 <!--
 **vkgupta857/vkgupta857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
